@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Eduardo Bachosky and Welcome to my Profile!</h1>
 <h3 align="center">I am a Systems Analysis and Development and Cybersecurity Student from Brazil</h3>
 
-- 🌱 I’m currently learning **Frameworks and APIs, Software Code Security and English language fluency.**
+- 🌱 I’m currently learning **Frameworks and APIs, Software Code Security and English language fluency**
 
 - 📫Contact: **dudubachosky10@hotmail.com**
 
